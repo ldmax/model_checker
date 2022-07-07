@@ -8,3 +8,9 @@ df = pd.DataFrame({
 })
 
 print(df)
+
+
+def add(param_a, param_b):
+    """some random function
+    """
+    return param_a + param_b
